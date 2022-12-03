@@ -1,0 +1,8 @@
+
+.table {
+    z-index: 0;
+    border-radius: 8px;
+    background: white;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
